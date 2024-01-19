@@ -1,0 +1,7 @@
+@import 'reset.css';
+@import 'content.css';
+
+@font-face {
+    font-family: "Actay";
+    src: url("../fonts/Actay-Regular.otf");
+}
